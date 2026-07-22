@@ -1,4 +1,4 @@
-#!/bin/bash
+#include<stdio.h>
 /**
  *  main - starting point for program execution
  * description - main will be used as function
