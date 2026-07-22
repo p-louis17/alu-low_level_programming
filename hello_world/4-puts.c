@@ -1,8 +1,8 @@
 #include<stdio.h>
-/*
- * main - is the starting point for program execution
- * description - main it the function
- *success - return 0
+/**
+ *  main - starting point for program execution
+ * description - main will be used as function
+ *  Return: 0 (success)
  */
 
 int main(void)
